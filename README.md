@@ -42,5 +42,5 @@ This project uses [Raylib](https://github.com/raysan5/raylib) with C++ as well a
 If you lose you get a tooltip at the bottom left to help guide you to find the correct values to win
 ![LostScreen](https://github.com/HotWheelzCodez/Circular-Motion-Simulation/blob/main/images/thumbnails/lostScreenImage.png)
 ### Changing Values
-This allows you to change the tires following the way the Gran Turismo has their tire system down, how ever mine has the friction coefficient along with the tire so that you can use it in the equations needed to find things such as friction force, allowing you to find the centripetal force.
+This allows you to change the tires following the way the Gran Turismo has their tire system down, how ever mine has the friction coefficient along with the tire so that you can use it in the equations needed to find things such as friction force, allowing you to find the centrepetal force.
 ![ChangeValueScreen](https://github.com/HotWheelzCodez/Circular-Motion-Simulation/blob/main/images/thumbnails/changeValuesImage.png)
